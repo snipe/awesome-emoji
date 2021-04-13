@@ -1,7 +1,7 @@
 # awesome-emoji
 This is collection of the emoji I have collected from the interwebs that I use in all of my slack teams. (There is one that is too big for slack, but is so cute I can't exclude it, which is the `miyazaki/soot-sprites.gif` below).
 
-![soot sprites](https://github.com/snipe/awesome-emoji/blob/master/miyazaki/soot-sprites.gif "Soot Sprites")
+![soot sprites](https://github.com/snipe/awesome-emoji/blob/master/movies-and-tv/miyazaki/soot-sprites.gif "Soot Sprites")
 
 Because OMG.
 
